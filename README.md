@@ -1,2 +1,3 @@
-# email-validator-framework
-An email validator framework in Swift
+# Email Validator Framework
+
+> An email validator framework in Swift
